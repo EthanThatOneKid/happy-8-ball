@@ -1,4 +1,4 @@
-# 🎱 Happy 8-Ball
+# Happy 8-Ball 🎱
 
 > Magic 8 Ball for happy tasks
 
